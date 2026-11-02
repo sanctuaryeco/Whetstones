@@ -1,0 +1,15 @@
+{
+  "IntegrityLossPoints": 15,
+  "WoodCraftSkill": "CarpentrySkill",
+  "WoodCraftLevel": 1,
+  "StoneCraftSkill": "BasicEngineeringSkill",
+  "StoneCraftLevel": 1,
+  "IronCraftSkill": "BlacksmithSkill",
+  "IronCraftLevel": 2,
+  "SteelCraftSkill": "BlacksmithSkill",
+  "SteelCraftLevel": 4,
+  "TractorCraftSkill": "MechanicsSkill",
+  "TractorCraftLevel": 3,
+  "GasolineCraftSkill": "OilDrillingSkill",
+  "GasolineCraftLevel": 5
+}
